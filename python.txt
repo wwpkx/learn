@@ -1,0 +1,3 @@
+https://github.com/coodict/python3-in-one-pic/blob/master/notebooks/py3-in-one-pic.ipynb
+learn_python3_spider
+sinaweibopy
